@@ -144,6 +144,7 @@ ul
     color: white;
     border-radius: 40px;
     display: inline-block;
+    margin: 5px;
     white-space: nowrap;
     border: none;
     background: var(--skin-color);
